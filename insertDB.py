@@ -1,5 +1,5 @@
 #Module to be install 
-#1. pip install xlrd
+#1. pip install xlrd 
 #2. pip install mysql-connector-python
 
 
